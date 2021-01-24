@@ -33,3 +33,4 @@ WXBizDataCrypt.prototype.decryptData = function (encryptedData, iv) {
 }
 
 module.exports = WXBizDataCrypt
+
