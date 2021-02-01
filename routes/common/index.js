@@ -1,7 +1,5 @@
-/**
- * @author 河畔一角
- * @description 微信接口统一封装处理
- */
+// 微信接口统一封装处理
+
 let request = require('request');
 let config = require('./../pay/config');
 let util = require('./../../util/util')
